@@ -42,7 +42,7 @@ para linha de 1 ate 3 faca
      escreva (exmatriz[linha,coluna],"  ")
      soma <- soma + exmatriz[linha,coluna]
   fimpara
-  escreval("a soma é",soma)
+  escreval("a soma é", linha, " = ",soma)
   escreval()
 fimpara
 
